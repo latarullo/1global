@@ -15,7 +15,6 @@ public class Main {
 	 * Assume first 3 priority levels If two tasks in the system have the same
 	 * priority, the system should process them in FIFO order -
 	 */
-
 	public static void main(String[] args) {
 		QueueManager queueManager = new QueueManager();
 
